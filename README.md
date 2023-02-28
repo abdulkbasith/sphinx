@@ -6,4 +6,5 @@ The primary client API is currently SphinxQL, a dialect of SQL. Almost any MySQL
 
 
 indexer --all -> to initially create the indexes
+
 indexer --all --rotate ->  to update the indexes
